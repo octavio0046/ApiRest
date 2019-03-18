@@ -1,0 +1,8 @@
+{
+    "nombre": "segundo primaria",
+    "descripcion": "segundo primaria",
+    "horarioInicio": "12:00",
+    "horarioFin": "10:00:00",
+    "jornada": "matutina",
+    "plan": "diario"
+}
